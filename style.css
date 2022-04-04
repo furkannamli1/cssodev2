@@ -1,0 +1,17 @@
+.googleresim {
+    text-align: center;
+    margin: 0 auto;
+    width: 1200px;
+}
+.googlearama {
+    width: 1200px;
+    margin: auto;
+    padding: auto;
+}
+
+.googlelink {
+    width:1200px; 
+    margin: auto; 
+    display: flex;
+}
+   
